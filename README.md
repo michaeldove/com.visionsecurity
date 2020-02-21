@@ -17,8 +17,11 @@ If you like the work, please help me buy a stroller for my future kid :D
 * ZG8101 Garage door sensor
 * ZM1601 Battery Operated Siren
 * ZM1602 DC/AC Power Siren
+* ZM1621 Outdoor Battery Operated Siren
 
 ## Revision History
+
+** V1.4.9 Add support for ZM1621
 
 ** V1.4.8
 * ZP3102  Tamper Motion and Binary contact split 
